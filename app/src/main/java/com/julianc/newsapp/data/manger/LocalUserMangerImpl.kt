@@ -8,7 +8,6 @@ import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.preferencesDataStore
 import com.julianc.newsapp.domain.manger.LocalUserManger
 import com.julianc.newsapp.utils.Constants
-import com.julianc.newsapp.utils.Constants.APP_ENTRY
 import com.julianc.newsapp.utils.Constants.USER_SETTING
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
